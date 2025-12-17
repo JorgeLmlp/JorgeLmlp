@@ -1,4 +1,5 @@
-<h1>Hi there, im Jorge and actually im studying alot of python focussing on automation, i love to learn new things</h1>   
+1<h1>Hi there</h1>
+<p>studying IA, Python, Automation</p>
 
 
 ---
