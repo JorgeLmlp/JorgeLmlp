@@ -2,7 +2,7 @@
 
 <p>
 I'm a programming student focused on Data Analysis and Automation.
-I use technology to analyze data, automate tasks, and solve problems efficiently.
+I use technology to automate tasks, and solve problems efficiently.
 Currently building a strong foundation through continuous learning and hands-on practice.
 </p>
 
