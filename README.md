@@ -1,10 +1,42 @@
-1<h1>Hi there</h1>
-<p>studying IA, Python, Automation</p>
+<h1>Hi there 👋, I'm Jorge</h1>
+
+<p>
+I'm a programming student focused on Data Analysis and Automation.
+I use technology to analyze data, automate tasks, and solve problems efficiently.
+Currently building a strong foundation through continuous learning and hands-on practice.
+</p>
+
+---
+
+### 🎯 Focus Areas
+- 📊 Data Analysis  
+- ⚙️ Process Automation  
+- 🤖 Applied AI  
+
+---
+
+### 🌱 Currently Learning
+- Python for Data Analysis  
+- Automation workflows  
+- Data fundamentals and problem-solving  
+
+---
+
+### 🚀 Career Goal
+- Become a Data Analyst or an Automation Engineer
+
+---
+
+### 📚 Mindset
+- Always learning
+- Building practical projects
+- Improving step by step
+
 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
