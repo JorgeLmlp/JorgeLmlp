@@ -104,15 +104,15 @@ Currently building a strong foundation through continuous learning and hands-on 
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="TailwindCSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="ViteJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
