@@ -46,6 +46,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -62,6 +63,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -70,6 +72,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -78,6 +81,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="C#" 
@@ -85,6 +89,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    
 <img 
     align="left" 
     alt="Git" 
@@ -93,6 +98,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -101,6 +107,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -109,6 +116,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
+
 <img 
     align="left" 
     alt="Python" 
