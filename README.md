@@ -1,9 +1,9 @@
 <h1>Hi there 👋, I'm Jorge</h1>
 
 <p>
-I'm a programming student focused on Data Analysis and Automation.
-I use technology to automate tasks, and solve problems efficiently.
-Currently building a strong foundation through continuous learning and hands-on practice.
+I'm a programming student focused on Data Analysis, Automation, and Software Development.
+I use technology to automate tasks, build efficient solutions, and solve real-world problems.
+Currently strengthening my skills through continuous learning and hands-on projects.
 </p>
 
 ---
@@ -11,6 +11,8 @@ Currently building a strong foundation through continuous learning and hands-on 
 ### 🎯 Focus Areas
 - 📊 Data Analysis  
 - ⚙️ Process Automation  
+- 🌐 Web Development  
+- 📱 Mobile Development  
 - 🤖 Applied AI  
 
 ---
@@ -18,21 +20,20 @@ Currently building a strong foundation through continuous learning and hands-on 
 ### 🌱 Currently Learning
 - Python for Data Analysis  
 - Automation workflows  
+- Web and Mobile development  
 - Data fundamentals and problem-solving  
 
 ---
 
 ### 🚀 Career Goal
-- Become a Data Analyst or an Automation Engineer
+- Become a Data Analyst, Automation Engineer, or Software Developer (Web & Mobile)
 
 ---
 
 ### 📚 Mindset
-- Always learning
-- Building practical projects
-- Improving step by step
-
-
+- Always learning  
+- Building practical projects  
+- Improving step by step  
 
 ---
 
@@ -55,6 +56,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -88,15 +90,7 @@ Currently building a strong foundation through continuous learning and hands-on 
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
 <img 
@@ -110,7 +104,34 @@ Currently building a strong foundation through continuous learning and hands-on 
 
 <img 
     align="left" 
-    alt="Python" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TailwindCSS"
     title="TailwindCSS"
     width="30px" 
     style="padding-right: 10px;" 
@@ -119,13 +140,18 @@ Currently building a strong foundation through continuous learning and hands-on 
 
 <img 
     align="left" 
-    alt="Python" 
+    alt="ViteJS"
     title="ViteJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 
-
-
-
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
