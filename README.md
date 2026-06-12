@@ -26,7 +26,7 @@ Currently strengthening my skills through continuous learning and hands-on proje
 ---
 
 ### 🚀 Career Goal
-- Become a Data Analyst, Automation Engineer, or Software Developer (Web & Mobile)
+- Become a Data Analyst, Automation Engineer, Software Developer (Web & Mobile) or Software Engineer (Web & Mobile)
 
 ---
 
