@@ -11,16 +11,16 @@ Currently strengthening my skills through continuous learning and hands-on proje
 
 ---
 
-### 🎯 Focus Areas
-- 📊 Data Analysis  
-- ⚙️ Process Automation  
-- 🌐 Web Development  
-- 📱 Mobile Development  
-- 🤖 Applied AI  
+###  Focus Areas
+-  Data Analysis  
+-  Process Automation  
+-  Web Development  
+-  Mobile Development  
+-  Applied AI  
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Python for Data Analysis  
 - Automation workflows  
 - Web and Mobile development  
@@ -28,12 +28,12 @@ Currently strengthening my skills through continuous learning and hands-on proje
 
 ---
 
-### 🚀 Career Goal
+###  Career Goal
 - Become a Data Analyst, Automation Engineer, Software Developer (Web & Mobile) or Software Engineer (Web & Mobile)
 
 ---
 
-### 📚 Mindset
+###  Mindset
 - Always learning  
 - Building practical projects  
 - Improving step by step  
